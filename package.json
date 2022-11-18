@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-tutorials-complete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravstr07/NodeJs-Tutorials-Complete.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravstr07/NodeJs-Tutorials-Complete/issues"
+  },
+  "homepage": "https://github.com/gauravstr07/NodeJs-Tutorials-Complete#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "uuid": "^9.0.0"
+  }
+}
